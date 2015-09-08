@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android手机信息</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="get_phone_info">点击获取手机信息</string>
+
+</resources>
